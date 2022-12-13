@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **prasanthk611@gmail.com**
 
-- ⚡ Fun fact **My favourite colour is White because iam intrested in Cloud.**
+- ⚡ My fav quote **"When you live for a strong purpose, then hard work isn't an option; it's a necessity  -Steve Pavlina".**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
