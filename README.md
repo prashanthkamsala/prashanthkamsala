@@ -22,7 +22,7 @@
 <p align="left">
 <a href="https://twitter.com/guyinadevops" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="guyinadevops" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/prashanth-kumar-93a000257" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prashanth-kumar-93a000257" height="30" width="40" /></a>
-<a href="https://instagram.com/k_prashanthk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="k_prashanthk" height="30" width="40" /></a>
+<a href="https://instagram.com/azure__devops" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="azure__devops" height="30" width="40" /></a>
 <a href="https://hashnode.com/@prashanth13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@prashanth13" height="30" width="40" /></a>
 </p>
 
