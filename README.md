@@ -6,9 +6,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prashanthkamsala&label=Profile%20views&color=0e75b6&style=flat" alt="prashanthkamsala" /> </p>
 
-<p align="left"> <a href="https://twitter.com/k_prashanthk" target="blank"><img src="https://img.shields.io/twitter/follow/k_prashanthk?logo=twitter&style=for-the-badge" alt="k_prashanthk" /></a> </p>
 
-- 🔭 I’m currently working on **Azure Devops**
+- 🔭 I’m currently working on **Devops**
 
 - 🌱 I’m currently learning **Azure Devops, Docker & Kubernetes**
 
