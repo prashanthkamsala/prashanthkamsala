@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working on **Devops**
 
-- 🌱 I’m currently learning **Azure Devops, Docker & Kubernetes**
+- 🌱 I’m currently learning **DevsSecOps, Building AI Agensts, DevOps Automations**
 
-- 💬 Ask me about **Azure Cloud,Docker,Git,Jenkins,Kubernetes,Linux,Networking,Powershell,Shell Scripting.**
+- 💬 Ask me about **Azure Cloud,AWS,GCP,Docker,Git,Jenkins,Kubernetes,Linux,Networking,Powershell,Shell Scripting.**
 
 - 📫 How to reach me **prasanthk611@gmail.com**
 
