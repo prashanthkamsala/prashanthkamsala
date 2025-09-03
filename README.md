@@ -7,11 +7,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prashanthkamsala&label=Profile%20views&color=0e75b6&style=flat" alt="prashanthkamsala" /> </p>
 
 
-- 🔭 I’m currently working on **DevOps**
+- 🔭 I’m currently working as **DevOps Engineer**
 
 - 🌱 I’m currently learning **DevSecOps, Building AI Agents, DevOps Automations**
 
-- 💬 Ask me about **Azure Cloud,AWS,GCP,Docker,Git,Jenkins,Kubernetes,Linux,Networking,Powershell,Shell Scripting.**
+- 💬 Ask me about **Azure Cloud,AWS,GCP,Docker,Git,Jenkins,Kubernetes,Linux,Networking,Powershell, Python & Shell Scripting.**
 
 - 📫 How to reach me **prasanthk611@gmail.com**
 
